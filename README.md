@@ -7,6 +7,7 @@ A aplicação consiste em uma **API RESTful** para gerenciamento de **aquários*
 ## 👨‍🎓 Autor
 
 **Breno Baroncelli**
+
 **E-mail:** breno.baroncelli@soulasalle.com.br
 
 ## 🛠️ Tecnologias Utilizadas
